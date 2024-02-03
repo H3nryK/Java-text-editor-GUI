@@ -1,5 +1,5 @@
 # Java-text-editor-GUI
-A basic text editor with a graphical user interface (GUI) implemented in Java.
+A basic text editor with a graphical user interface (GUI) implemented in Java swing, a java library.
 
 ## Features
 
